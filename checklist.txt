@@ -1,3 +1,5 @@
 checklist
 makefile
 readme
+[MH:HW60743] Configure maxLayersMimo_r10 for Pcell and sCell 
+[MH:HW80717] reconfigure codebookSubsetRestriction 
